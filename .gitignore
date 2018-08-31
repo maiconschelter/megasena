@@ -1,0 +1,5 @@
+.DS_Store
+.git
+dependency-reduced-pom.xml
+megasena.iml
+/target
