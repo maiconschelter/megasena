@@ -19,4 +19,4 @@ SELECT *
 /*the magic numbers*/
 SELECT *
   FROM public.results
- WHERE resnumber @> '{4,5,10,46,53,54}'
+ WHERE resnumber @> '{4,5,10,23,53,54}'
